@@ -30,7 +30,7 @@ h1 {
   margin-bottom: 1em;
 }
 
-img{width:20em;display:block}
+.item img{width:40em;display:block;margin-bottom:4px}
 
 p {
   margin: 1em 0;
@@ -52,6 +52,10 @@ table {
   font-size: inherit;
   font: 100%;
 }
+
+ol{margin-bottom:1em;}
+ol li{margin-left:2em;}
+ul li{margin-left:2em;}
 
 /*****************************************************************************/
 /*
